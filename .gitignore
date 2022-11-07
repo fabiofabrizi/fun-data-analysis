@@ -1,3 +1,4 @@
 # This was added after the repo was created
 # Ignore Python files as repo contains Jupiter notebooks
 *.py
+*.ipynb_checkpoints
