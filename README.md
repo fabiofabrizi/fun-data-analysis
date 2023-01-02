@@ -7,7 +7,22 @@ Had to add a .gitignore file to the repo as it was created last week.
 Followed the instructions [here on FreeCodeCamp.](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)
 
 
+## Topic 2: Randomness
+This topic explored randomness and it's role in statistics
+The binomial function was covered and it's application in how to calculate the probability of a particular outcome.
+The exercises included how to calculate the probability of a coin flip and the probability of a certain number of outcomes, i.e. 4 heads.
+3 distributions were also plotted, with explanations:
+- Standard Exponential distribution
+- Weibull distribution
+- Rayleigh distribution
 
+## Topic 3: Bias
+
+For this topic, types of bias were discussed.
+For the exercises, 3 different types of cognitive bias were given, with explanations:
+- Anchoring
+- Bandwagon
+- Stereotyping
 
 
 ## References
