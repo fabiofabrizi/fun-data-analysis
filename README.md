@@ -38,5 +38,18 @@ The first exercise was to remove all non-alphanumeric characters from a string;
 The second exercise was to adapt the code from the lecture to capitalise the first letter of the iris species using regular expressions, after the species name is placed first.
 
 
+## Project
+
+The project for the module was to explore the normal distribution by creating a Jupyter notebook and exploring the concepts behind it.<br>
+This can be found under the folder:<br>
+/project<br>
+
+The notebook starts with a brief explanation and definition of what a normal distribution is, before generating a sample normal distribution with numpy and then plotting it using matplotlib.
+A variable from a real dataset (Wisconsin Breast Cancer dataset) was used to explore:
+- The empirical rule
+- Kurtosis
+- Skew
+
+
 ## References
 1. [How to remove a folder from github](https://clay-atlas.com/us/blog/2021/10/23/github-remove-repository-folder/#:~:text=How%20to%20delete%20folder%20If%20you%20want%20to,FOLDER_NAME%3A%20Remove%20the%20specific%20name%20folder%20in%20cache.)
