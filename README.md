@@ -24,6 +24,19 @@ For the exercises, 3 different types of cognitive bias were given, with explanat
 - Bandwagon
 - Stereotyping
 
+The second exercise was to prove that the difference in standard deviation calculations is greatest for small sample sizes.
+
+## Topic 4: Outliers
+
+This topic dealt with outliers - definition of an outlier, how outliers can be seen best on different plots (box plots), etc.
+The first exercise was to create box plots for all five experiments in the Morley data set;
+The second exercise was to create box plots for all the numerical variables in Fisher's Iris data set.
+
+## Topic 5: Cleansing
+This topic dealt with cleaning data using Python, i.e. using Python regular expressions to format, extract or find data that is needed.
+The first exercise was to remove all non-alphanumeric characters from a string;
+The second exercise was to adapt the code from the lecture to capitalise the first letter of the iris species using regular expressions, after the species name is placed first.
+
 
 ## References
 1. [How to remove a folder from github](https://clay-atlas.com/us/blog/2021/10/23/github-remove-repository-folder/#:~:text=How%20to%20delete%20folder%20If%20you%20want%20to,FOLDER_NAME%3A%20Remove%20the%20specific%20name%20folder%20in%20cache.)
